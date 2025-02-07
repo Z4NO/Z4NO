@@ -1,6 +1,6 @@
-<h1 align="center"> Hi there 👋, I'm [Daniel lozano](https://daniellozano.is-a.dev/)</h1>
+<h1 align="center" href="https://daniellozano.is-a.dev/"> Hi there 👋, I'm Daniel lozano</h1>
 
-<a target="_blank" href="https://daniellozano.is-a.dev/"><img src="https://github.com/user-attachments/assets/a0ab0e62-864d-4fcb-b4ae-30e25613dc4b"/></a>
+<a target="_blank" align="center"  href="https://daniellozano.is-a.dev/"><img src="https://github.com/user-attachments/assets/a0ab0e62-864d-4fcb-b4ae-30e25613dc4b"/></a>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
