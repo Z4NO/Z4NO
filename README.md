@@ -1,6 +1,12 @@
-<h1 align="center" href="https://daniellozano.is-a.dev/"> Hi there 👋, I'm Daniel lozano</h1>
+<h1 align="center">
+    <a href="https://daniellozano.is-a.dev/" target="_blank"> Hi there 👋, I'm Daniel Lozano</a>
+</h1>
 
-<a target="_blank" align="center"  href="https://daniellozano.is-a.dev/"><img src="https://github.com/user-attachments/assets/a0ab0e62-864d-4fcb-b4ae-30e25613dc4b"/></a>
+<p align="center">
+    <a href="https://daniellozano.is-a.dev/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/a0ab0e62-864d-4fcb-b4ae-30e25613dc4b"/>
+    </a>
+</p>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
@@ -18,9 +24,7 @@
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&logo=python&logoColor=white)![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Tensorflow](https://img.shields.io/badge/tensorflow-orange.svg?style=for-the-badge&logo=tensorflow&logoColor=white)![Pytorch](https://img.shields.io/badge/pytorch-%23000000.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-darkblue.svg?style=for-the-badge&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <div align="center">
   <h3><b>Let's get in touch! </b></h3>
   </div>
