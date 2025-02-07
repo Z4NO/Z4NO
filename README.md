@@ -10,7 +10,7 @@
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Backend+Developer;Always%20developing%20my%20skills&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Always%20developing%20my%20skills&center=true&width=380&height=45">
 	</a>
 </p>
 
